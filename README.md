@@ -1,0 +1,4 @@
+- 👋 Hi, I’m DongJu Han.
+- 👀 I’m interested in Automation and Optimization in Architecture.
+- 🌱 I’m currently learning Architecture and Python.
+- 📫 email hdj_0923@naver.com

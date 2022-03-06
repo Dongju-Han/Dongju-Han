@@ -1,4 +1,4 @@
 - 👋 Hi, I’m DongJu Han.
 - 👀 I’m interested in Computational Design in Architecture.
 - 🌱 I’m currently learning C#, Python and Grasshopper.
-- 📫 email dongjuhan44@gmail.com
+- 📫 Email dongjuhan44@gmail.com
